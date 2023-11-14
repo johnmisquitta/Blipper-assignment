@@ -13,7 +13,7 @@
 ![GitHub Logo](screenshots/g6.png)
 ![GitHub Logo](screenshots/g7.png)
 ![GitHub Logo](screenshots/g8.png)
-![GitHub Logo](screenshots/g9 .png)
+![GitHub Logo](screenshots/g9.png)
 ![GitHub Logo](screenshots/g10.png)
 
 
