@@ -9,6 +9,7 @@
 ![GitHub Logo](screenshots/g1.png)
 # Dictionary after applying all result
 ![GitHub Logo](screenshots/g2.png)
+# Screenshots
 ![GitHub Logo](screenshots/g12.png)
 ![GitHub Logo](screenshots/g13.png)
 
