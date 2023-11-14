@@ -14,8 +14,14 @@
 ![GitHub Logo](screenshots/g5.png)
 ![GitHub Logo](screenshots/g6.png)
 ![GitHub Logo](screenshots/g7.png)
+# Entity Detection - classifies important data like organization name phone numbers email adess
+
 ![GitHub Logo](screenshots/g8.png)
+# Threat Detection - Filters out sensitive content
+
 ![GitHub Logo](screenshots/g9.png)
+# Sales pitch - used to detect how agent sells the product
+
 ![GitHub Logo](screenshots/g10.png)
 
 
