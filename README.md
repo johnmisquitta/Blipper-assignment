@@ -4,7 +4,7 @@
 
 This section process audio file and peforms word-level transcription. It allows you to analyze spoken content and extract transcriptions at the individual word level.
 
-## Demo [LINK](https://john-misquitta-word-level-transcription.streamlit.app/) 
+## Word Level Transcription Demo [LINK](https://john-misquitta-word-level-transcription.streamlit.app/) 
 
 Check out demo at [https://john-misquitta-word-level-transcription.streamlit.app/](https://john-misquitta-word-level-transcription.streamlit.app/) 
 
@@ -16,7 +16,8 @@ https://github.com/johnmisquitta/Blipper-assignment/assets/34851009/23837e84-344
 
 ##  Live Transcription
 
-This section process audio file and peforms word-level transcription. It allows you to analyze spoken content and extract transcriptions at the individual word level.
+This section process audio file and transcribe audio live
+## Live Transcription Demo [LINK](https://blipper-assignment-luw568c5nunenes4y2dhgl.streamlit.app//) 
 
 
 # User Interface
