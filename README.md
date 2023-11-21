@@ -1,16 +1,23 @@
-# Word Level Transcription
+# Overview
 
-## Overview
+##  Word Level Transcription
 
 This section process audio file and peforms word-level transcription. It allows you to analyze spoken content and extract transcriptions at the individual word level.
 
-## Website
+## Demo [LINK](https://john-misquitta-word-level-transcription.streamlit.app/) 
 
-Check out demo [website](https://john-misquitta-word-level-transcription.streamlit.app/) 
+Check out demo at [https://john-misquitta-word-level-transcription.streamlit.app/](https://john-misquitta-word-level-transcription.streamlit.app/) 
 
 ## Demo Video
 
 Watch a quick demo of the word-level transcription in action:
+
+https://github.com/johnmisquitta/Blipper-assignment/assets/34851009/23837e84-344b-468a-9c57-acb07def1042
+
+
+
+
+
 
 [![Word Level Transcription Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
 If you prefer to download the demo video in ASF format, you can do so by clicking [here](record_000068.asf).
