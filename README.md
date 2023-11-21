@@ -17,9 +17,9 @@ https://github.com/johnmisquitta/Blipper-assignment/assets/34851009/23837e84-344
 ##  Live Transcription
 
 This section process audio file and transcribe audio live
-## Live Transcription Demo [LINK](https://blipper-assignment-luw568c5nunenes4y2dhgl.streamlit.app//) 
+## Live Transcription Demo [LINK](https://blipper-assignment-luw568c5nunenes4y2dhgl.streamlit.app/) 
 
-
+Check out demo at [https://blipper-assignment-luw568c5nunenes4y2dhgl.streamlit.app/](https://blipper-assignment-luw568c5nunenes4y2dhgl.streamlit.app/)
 # User Interface
 ![GitHub Logo](screenshots/ts1.png)
 ![GitHub Logo](screenshots/ts2.png)
